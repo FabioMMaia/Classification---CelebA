@@ -1,0 +1,11 @@
+:config
+exec_time:"Execução em: 21/01/2023 18:08:15"
+model_name:SVM Classificador Kernel RBF C=1
+parametro_fixo:"C:[1]"
+parametro_variavel:"sigma:[ 0.01 0.1 1 ]"
+kfold:KFold(n_splits=5, random_state=42, shuffle=True)
+melhor_modelo_obj:<SVM_OVR.SVM_one_vs_all object at 0x7fe436ced430>
+best_param_k_fold:"sigma:[ 1] C:[ 1]"
+index:cv_results_3
+cv_param:"sigma:[ 1] C:[ 1]"
+modelo:svm_classificador_kernel_rbf_c=1

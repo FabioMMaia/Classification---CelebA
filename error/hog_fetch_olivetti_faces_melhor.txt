@@ -1,0 +1,28 @@
+Execução em: 22/01/2023 18:34:15
+exec_time:Execução em: 22/01/2023 11:11:35
+model_name:Regressão Logística Multinomial com Bisseção
+parametro_fixo:theta:[0.001]
+parametro_variavel:itmax_bissec:[ 5 20 ]
+kfold:KFold(n_splits=5, random_state=42, shuffle=True)
+melhor_modelo_obj:<Multinomial_LogReg.MultinomialLogReg_bissecao object at 0x7fd0fc827b80>
+best_param_k_fold:itmax_bissec:[ 5] theta:[ 0.001]
+index:cv_results_1
+acc_test_0:0.925
+acc_test_1:0.9666666666666667
+acc_test_2:0.95
+acc_test_3:0.925
+acc_test_4:0.9166666666666666
+acc_train_0:1.0
+acc_train_1:1.0
+acc_train_2:1.0
+acc_train_3:1.0
+acc_train_4:1.0
+acc_val_0:1.0
+acc_val_1:0.9464285714285714
+acc_val_2:0.8928571428571429
+acc_val_3:0.9285714285714286
+acc_val_4:0.8571428571428571
+cv_param:itmax_bissec:[ 5] theta:[ 0.001]
+modelo:regressao_logistica_multinomial_com_bissecao
+media_acc_val:0.925
+
