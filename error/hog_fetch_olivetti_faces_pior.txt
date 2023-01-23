@@ -1,0 +1,28 @@
+Execução em: 22/01/2023 18:34:18
+exec_time:Execução em: 22/01/2023 11:13:21
+model_name:SVM Classificador Kernel RBF C=1
+parametro_fixo:C:[1]
+parametro_variavel:sigma:[ 0.001 0.01 0.1 1 ]
+kfold:KFold(n_splits=5, random_state=42, shuffle=True)
+melhor_modelo_obj:<SVM_OVR.SVM_one_vs_all object at 0x7fd0f220fd00>
+best_param_k_fold:sigma:[ 1] C:[ 1]
+index:cv_results_1
+acc_test_0:0.025
+acc_test_1:0.025
+acc_test_2:0.025
+acc_test_3:0.025
+acc_test_4:0.025
+acc_train_0:1.0
+acc_train_1:1.0
+acc_train_2:1.0
+acc_train_3:1.0
+acc_train_4:1.0
+acc_val_0:0.017857142857142856
+acc_val_1:0.03571428571428571
+acc_val_2:0.03571428571428571
+acc_val_3:0.0
+acc_val_4:0.03571428571428571
+cv_param:sigma:[ 0.001] C:[ 1]
+modelo:svm_classificador_kernel_rbf_c=1
+media_acc_val:0.024999999999999998
+
