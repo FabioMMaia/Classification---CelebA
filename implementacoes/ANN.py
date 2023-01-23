@@ -13,7 +13,7 @@ from sklearn.decomposition import PCA
 class RNA():
 
   def __init__(self,h=5, nepocasmax = 50000, early_stop=False):
-    self.h = 5
+    self.h = h
     self.nepocasmax = nepocasmax
     self.alfa = 0.1
     self.early_stop=early_stop
