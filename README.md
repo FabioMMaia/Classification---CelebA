@@ -1,14 +1,14 @@
 # Classification - CelebA
 
-## Abstract— Practical and comparative study considering implementation and application of Classical Machine Learning Models along with Deep Learning techniques on a multiclass task of people recognition. 
+## Practical and comparative study considering the implementation and application of classical Machine Learning models along with Deep Learning techniques on a multiclass task of facial recognition. 
 Keywords— computer vision, machine learning, deep learning, neural network, multinomial logistic regression, support vector machines, multilayer perceptron
 
 
-Implementation of 4 models types: Multinomial Logistic Regression, Suport Vector Machines, Multilayer Perceptron and Convolutional Neural Networks considering classification task of human faces
+Implementation of 4 model types: Multinomial Logistic Regression, Support Vector Machines, Multilayer Perceptron and Convolutional Neural Networks considering the task of classifying human faces
 
 Some remarks:
-- Two datasets were used considering the main goal: Fetch Olivetti Faces[1] and Celeb A[2]
-- The Machine Learning models Multinomial Logistic Regression, Suport Vector Machines, Multilayer Perceptron were implemented from scracth using pandas and numpy
+- Two datasets were used: Fetch Olivetti Faces[1] and Celeb A[2]
+- The Machine Learning models Multinomial Logistic Regression, Support Vector Machines and Multilayer Perceptron were implemented from scratch using Pandas and Numpy
 - The CNN models used were AlexNet and MobileNetv2. 
 
 - References:
