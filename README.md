@@ -1,6 +1,6 @@
 # Classification - CelebA
 
-## Practical and comparative study considering the implementation and application of classical Machine Learning models along with Deep Learning techniques on a multiclass task of facial recognition. 
+## Towards a Comparative Study of Machine Learning Models and Deep Learning Techniques for Multiclass Facial Recognition: Implementation and Analysis using Olivetti Faces and Celeb A Datasets 
 Keywords— computer vision, machine learning, deep learning, neural network, multinomial logistic regression, support vector machines, multilayer perceptron
 
 
